@@ -1,19 +1,19 @@
-    <style>
-             body {
-                background-color: rgb(47, 90, 64);
-                 }   
-             h1, p {font-family: 'Poppins', sans-serif;
-                }
-             h1 {color: white}
+body {background-color: rgb(50, 90, 62);
+        font-family: Georgia, 'Times New Roman', Times, serif ;}
+
+
+h1, {font-family: 'Times New Roman', Times, serif;}
+
+    .city {font-size:20px;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-style: oblique;
+            color: beige;}
             
-            
-              
-             .Strong1 { font-size: 25px ; font-family: 'Times New Roman', Times, serif; }
-             .frio {font-size:25px ;}
+
+    .picture {width: 300px;
+                border-radius: 100%;}
+
     
-             .logica {font-size: 20px; ;}
-    
-             .pressao {font-size:15px ;}
-    
-    
-         </style>
+    .list {font-size: 12px;
+            font-style: initial;}
+
