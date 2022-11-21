@@ -2,11 +2,13 @@ body {background-color: rgb(27, 27, 27);
         font-family: Georgia, 'Times New Roman', Times, serif ;}
 
 
-h1 {font-family: 'Times New Roman', Times, serif;
+h1, h2{font-family: 'Times New Roman', Times, serif;
 color: aliceblue;}
 
 p {font-size: 27px;
     color: rgb(253, 247, 247);}
+
+h2 {font-size: 30px;}
 
     .city {font-size:30px;
             font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -40,8 +42,17 @@ p {font-size: 27px;
    .header-content {
     max-width: 1000px;
     margin-left: 60px;
-    
-   }
+     }
+
+     .list {color:rgb(253, 247,
+         247) ;}
+
+    .footer {
+        margin:auto;
+        padding: 25px 60px;
+        margin-left: 50px;
+        
+    }
 
 
     
