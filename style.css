@@ -1,19 +1,48 @@
-body {background-color: rgb(50, 90, 62);
+body {background-color: rgb(27, 27, 27);
         font-family: Georgia, 'Times New Roman', Times, serif ;}
 
 
-h1, {font-family: 'Times New Roman', Times, serif;}
+h1 {font-family: 'Times New Roman', Times, serif;
+color: aliceblue;}
 
-    .city {font-size:20px;
+p {font-size: 27px;
+    color: rgb(253, 247, 247);}
+
+    .city {font-size:30px;
             font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
             font-style: oblique;
             color: beige;}
             
 
     .picture {width: 300px;
-                border-radius: 100%;}
+            border-radius:70px;
+            margin-left: 60px;
+            padding-bottom:40px ;
+            margin-top: 60px;}
 
     
     .list {font-size: 12px;
             font-style: initial;}
+
+    .header {
+    background-size: 100%;
+    height: 600px;
+    padding: 30px 60px;
+    background-image: url(/images/nebulosa-do-espaco-brilhante-e-bonita-elementos-desta-imagem-fornecidos-pela-nasa-foto-de-alta-qualidade_496756-8360.jpg)
+   ;
+    width: 100%;}
+
+   .name {margin-left: 30%;
+            padding:20px;
+            font-size: 18px
+             ;}
+
+   .header-content {
+    max-width: 1000px;
+    margin-left: 60px;
+    
+   }
+
+
+    
 
